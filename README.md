@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi 👋
+
+I'm a programmer :computer: and data scientist  with a passion for skiing :ski:, bicycle rides :mountain_bicyclist:, and walking :walking:. 
+
+I love working with Python and solving tasks with machine learning, especially in the computer vision domain.
 
 <!--
 **mlskientist/mlskientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
